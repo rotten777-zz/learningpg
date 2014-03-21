@@ -1,0 +1,4 @@
+learningpg
+==========
+
+just learning phonegap
